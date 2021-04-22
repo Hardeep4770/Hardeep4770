@@ -18,9 +18,5 @@ Skills:<br>
 &emsp;    -Payment(Stripe/Squareup)<br>
 &emsp;    -Wordpress<br>
 
-Projects:<br>
-&emsp;    -EHP https://www.e-hallpass.com/login <br>
-&emsp;    -FTM https://www.flextimemanager.com/login <br>
-
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hardeep-singh-73190972
