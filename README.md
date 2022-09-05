@@ -1,5 +1,5 @@
 ### Hi, I’m @hardeep 👋
-<img align="right" src="[https://github-readme-stats.vercel.app/api?username=Hardeep4770&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true](https://github-readme-stats.vercel.app/api?username=Hardeep4770&show_icons=true&theme=react&count_private=true&icon_color=805AD5&text_color=718096&bg_color=ffffff)" /> 
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Hardeep4770&show_icons=true&theme=react&count_private=true&icon_color=805AD5&text_color=718096&bg_color=ffffff" /> 
 <h3>Welcome to My Git.</h3>
 <p>I am a full-stack developer specialized in <b>Python</b> <b>JavaScript</b> <b>Wordpress</b> and <b>JavaScript frameworks</b>. My focus is always on building the best secure, 
 reliable, and with good User Experience websites.</p>
