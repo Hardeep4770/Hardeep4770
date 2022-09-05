@@ -1,21 +1,19 @@
 ### Hi, I’m @hardeep 👋
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=abhinavdobhal&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=hardeep4770&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true" />
 <h3>Welcome to My Git.</h3>
 <p>I am a full-stack developer specialized in <b>Laravel</b> <b>JavaScript</b> <b>Wordpress</b> and <b>JavaScript frameworks</b>. My focus is always on building the best secure, 
 reliable, and with good User Experience websites.</p>
 
 Skills:<br>
-&emsp;    -React/Next.js/Material UI/Gatsby/Ant Design<br>
-&emsp;    -JavaScript/TypeScript/jQuery<br>
-&emsp;    -CSS/SCSS/Tailwind CSS<br>
+&emsp;    -FARM Stack | Python | Django/Fastapi<br>
+&emsp;    -React | Next.js<br>
+&emsp;    -JavaScript | TypeScript | jQuery<br>
+&emsp;    -CSS | SCSS<br>
 &emsp;    -HTML5<br>
 &emsp;    -Google Maps<br>
 &emsp;    -AWS<br>
 &emsp;    -Git<br>
-&emsp;    -Node.js/Express.js<br>
-&emsp;    -Laravel/PHP<br>
-&emsp;    -MongoDB/MySQL/GraphQL<br>
-&emsp;    -Payment(Stripe/Squareup)<br>
+&emsp;    -MongoDB | MySQL | GraphQL | PostgreSQL<br>
 &emsp;    -Wordpress<br>
 
 
